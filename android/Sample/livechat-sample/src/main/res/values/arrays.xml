@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="modes">
+        <item>VIDEO</item>
+        <item>AUDIO</item>
+        <item>SCREEN</item>
+    </string-array>
+    <string-array name="logmodes">
+        <item>UI</item>
+        <item>FILE</item>
+    </string-array>
+</resources>
